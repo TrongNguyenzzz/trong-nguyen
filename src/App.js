@@ -7,8 +7,9 @@ import {
     Navigate,
     Link
 } from "react-router-dom";
-import Paricle from './components/Particle';
+import Paricle from './components/Particle/Particle';
 import Navbar from './components/Navbar';
+import Home from './components/Home/Home';
 
 function App() {
     return ( <
@@ -16,6 +17,15 @@ function App() {
         <
         Navbar / >
         <
+        Routes >
+        <
+        Route path = "/Home"
+        element = { < Home / > }
+        />  <
+        Route path = "*"
+        element = { < Home / > }
+        /> <
+        /Routes> <
         /BrowserRouter>
     );
 }
