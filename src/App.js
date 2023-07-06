@@ -10,6 +10,7 @@ import {
 import Paricle from './components/Particle/Particle';
 import Navbar from './components/Navbar';
 import Home from './components/Home/Home';
+import About from './components/About/About';
 
 function App() {
     return ( <
@@ -22,6 +23,9 @@ function App() {
         Route path = "/Home"
         element = { < Home / > }
         />  <
+        Route path = "/About"
+        element = { < About / > }
+        /> <
         Route path = "*"
         element = { < Home / > }
         /> <
