@@ -45,7 +45,8 @@ function Home() {
 
         <
         h1 className = "heading-name" >
-        I am Trong Nguyen from < img src = { logo }
+        I am Trong Nguyen from < img className = "vietnam"
+        src = { logo }
         alt = "Logo" / >
         <
         /h1>
@@ -72,8 +73,8 @@ function Home() {
         <
         Link to = "https://drive.google.com/file/d/109NRBUVIjaKjIHUKiHPUkh10hSVQzpk1/view?usp=drive_link" >
         <
-        Button className = "temp" > < AiOutlineDownload / > My Resume < /Button> <
-        /Link> <
+        Button className = "temp" > < AiOutlineDownload / > My Resume < /Button> < /
+        Link > <
         /div>
 
         <
