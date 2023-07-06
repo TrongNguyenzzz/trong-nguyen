@@ -3,15 +3,16 @@
     padding-left: 10%;
     color: white;
     padding-top: 7%;
+    font-size: 1.8vw;
 }
 
 #type-writer {
-    font-size: 30px;
+    font-size: 3vw;
     color: aquamarine
 }
 
 .resize {
-    width: 350px;
+    width: 37vw;
     height: auto;
     float: right;
     padding-right: 10%;
@@ -24,9 +25,9 @@
 
 #connect-home {
     display: flex;
-    /* justify-content: center; */
     flex-direction: column;
     position: relative;
+    font-size: 2vw;
 }
 
 .home-social {
