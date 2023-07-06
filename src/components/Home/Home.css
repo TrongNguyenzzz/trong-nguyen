@@ -41,3 +41,8 @@
     padding: 0 5px;
     position: relative;
 }
+
+.temp {
+    width: 20vw;
+    height: auto;
+}
