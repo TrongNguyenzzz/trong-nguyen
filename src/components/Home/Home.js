@@ -11,6 +11,10 @@ import {
 } from "react-icons/ai";
 import { SlEnvolope } from "react-icons/sl";
 import { FaLinkedinIn } from "react-icons/fa";
+import { Link } from 'react-router-dom';
+import { AiOutlineDownload } from "react-icons/ai";
+import Button from "react-bootstrap/Button";
+import './Resume.css';
 import './Home.css';
 
 
@@ -61,8 +65,15 @@ function Home() {
         <
         br / >
         <
-        br / >
+        /div>
+
         <
+        div className = "buttondiv" >
+        <
+        Link to = "https://drive.google.com/file/d/109NRBUVIjaKjIHUKiHPUkh10hSVQzpk1/view?usp=drive_link" >
+        <
+        Button className = "temp" > < AiOutlineDownload / > My Resume < /Button> <
+        /Link> <
         /div>
 
         <

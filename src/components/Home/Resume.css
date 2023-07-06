@@ -1,0 +1,26 @@
+.resume-section {
+    position: relative !important;
+    padding-top: 110px !important;
+    padding-bottom: 30px !important;
+    background-image: var(--section-background-color) !important;
+    color: white !important;
+}
+
+
+/* .buttondiv {
+    margin: 0;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+} */
+
+.temp {
+    background-color: white;
+    font-size: 20px;
+    color: black;
+    width: 200px;
+    height: auto;
+    text-align: center;
+}
