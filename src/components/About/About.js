@@ -30,7 +30,7 @@ function About() {
         <
         br / > < br / > < br / > < strong style = {
             { color: "aquamarine" }
-        } > I am major in Computer Science, Data Science <
+        } > I am majoring in Computer Science, Data Science <
         br / > < br / > and Statistics < /strong>. {" "} I love coding, math, business and <
         br / > < br / > trading.
 
