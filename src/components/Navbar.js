@@ -15,7 +15,7 @@ function Navbar() {
         <
         li > < Link to = "/About" > About < /Link></li >
         <
-        li > < Link to = "/Projects" > Projects < /Link></li >
+        li > < Link to = "/Project" > Projects < /Link></li >
         <
         /ul> < /
         div > <

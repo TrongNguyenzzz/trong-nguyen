@@ -1,0 +1,6 @@
+#tsparticles2 {
+    height: 280vh;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}

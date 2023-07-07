@@ -1,0 +1,60 @@
+.project-card {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    height: auto !important;
+}
+
+.project-card-view {
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0 4px 5px 3px aquamarine !important;
+    color: white !important;
+    background-color: transparent !important;
+    opacity: 0.9 !important;
+    transition: all 0.5s ease 0s !important;
+    height: 100% !important;
+}
+
+.project-card-view:hover {
+    transform: scale(1.02) !important;
+    overflow: hidden !important;
+    box-shadow: 0 4px 4px 5px aquamarine !important;
+}
+
+.projects {
+    padding-top: 1%;
+    font-size: 1.8vw;
+}
+
+.project-heading {
+    font-size: 5vw;
+    color: white;
+    text-align: center;
+}
+
+.card-img {
+    width: 7vw;
+    height: 7vw;
+    padding-top: 4%;
+    padding-left: 2%;
+}
+
+.card-body {
+    padding-left: 5%;
+}
+
+.card-title {
+    font-size: 2.5vw;
+    color: white;
+}
+
+.project-button {
+    font-size: 2vw;
+    color: black;
+}
+
+.card-text {
+    font-size: 1.5vw;
+}
