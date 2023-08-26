@@ -71,7 +71,7 @@ function Home() {
         <
         div className = "buttondiv" >
         <
-        Link to = "https://drive.google.com/file/d/109NRBUVIjaKjIHUKiHPUkh10hSVQzpk1/view?usp=drive_link" >
+        Link to = "https://drive.google.com/file/d/1MEh5IDS-nH5ilzlHdHj84s1zTUOMGsmB/view?usp=drive_link" >
         <
         Button className = "temp" > < AiOutlineDownload / > My Resume < /Button> < /
         Link > <
